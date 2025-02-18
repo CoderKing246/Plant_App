@@ -1,0 +1,38 @@
+{
+    "Peach": {
+        "scientific_name": "Peach",
+        "description": "The peach (Prunus persica) is a deciduous tree first domesticated and cultivated in China. It bears edible juicy fruits with various characteristics, most called peaches and the glossy-skinned, non-fuzzy varieties called nectarines."
+    },
+    "Blueberry": {
+        "scientific_name": "Blueberry",
+        "description": "Blueberries are a widely distributed and widespread group of perennial flowering plants with blue or purple berries. They are classified in the section Cyanococcus with the genus Vaccinium."
+    },
+    "Cherry_(including_sour)": {
+        "scientific_name": "Prunus cerasus",
+        "description": "Prunus cerasus (sour cherry, tart cherry, or dwarf cherry) is an Old World species of Prunus in the subgenus Cerasus (cherries). It has two main groups of cultivars: the dark-red Morello cherry and the lighter-red Amarelle cherry."
+    },
+    "Pepper,_bell": {
+        "scientific_name": "Bell pepper",
+        "description": "The bell pepper (also known as sweet pepper, pepper, capsicum  or, in some parts of the US midwest, mango) is the fruit of plants in the Grossum Group of the species Capsicum annuum. Cultivars of the plant produce fruits in different colors, including red, yellow, orange, green, white, chocolate, candy cane striped, and purple."
+    },
+    "Corn_(maize)": {
+        "scientific_name": "Maize",
+        "description": "Maize  (Zea mays), also known as corn in North American English, is a tall stout grass that produces cereal grain. It was domesticated by indigenous peoples in southern Mexico about 9,000 years ago from wild teosinte."
+    },
+    "Soybean": {
+        "scientific_name": "Soybean",
+        "description": "The soybean, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean, which has numerous uses.\nTraditional unfermented food uses of soybeans include soy milk, from which tofu and tofu skin are made."
+    },
+    "Raspberry": {
+        "scientific_name": "Raspberry",
+        "description": "The raspberry is the edible fruit of several plant species in the genus Rubus of the rose family, most of which are in the subgenus Idaeobatus. The name also applies to these plants themselves."
+    },
+    "Apple": {
+        "scientific_name": "Apple",
+        "description": "An apple is a round, edible fruit produced by an apple tree (Malus spp., among them the domestic or orchard apple; Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus."
+    },
+    "Potato": {
+        "scientific_name": "Potato",
+        "description": "The potato () is a starchy tuberous vegetable native to the Americas that is consumed as a staple food in many parts of the world. Potatoes are underground tubers of the plant Solanum tuberosum, a perennial in the nightshade family Solanaceae."
+    }
+}
