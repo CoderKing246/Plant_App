@@ -8,7 +8,7 @@ import json
 app = FastAPI()
 
 # Load the trained TFLite model
-interpreter = tflite.Interpreter(model_path="backend/models/plant_model.tflite")
+interpreter = tflite.Interpreter(model_path="models/plant_model.tflite")
 interpreter.allocate_tensors()
 input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
