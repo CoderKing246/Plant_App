@@ -14,7 +14,7 @@ input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
 
 # Load plant information database
-with open("backend/models/plant_info.json", "r") as f:
+with open("models/plant_info.json", "r") as f:
     plant_info = json.load(f)
 
 def preprocess_image(image):
