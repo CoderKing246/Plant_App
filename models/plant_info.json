@@ -1,38 +1,93 @@
 {
-    "Peach": {
-        "scientific_name": "Peach",
-        "description": "The peach (Prunus persica) is a deciduous tree first domesticated and cultivated in China. It bears edible juicy fruits with various characteristics, most called peaches and the glossy-skinned, non-fuzzy varieties called nectarines."
-    },
-    "Blueberry": {
-        "scientific_name": "Blueberry",
-        "description": "Blueberries are a widely distributed and widespread group of perennial flowering plants with blue or purple berries. They are classified in the section Cyanococcus with the genus Vaccinium."
-    },
-    "Cherry_(including_sour)": {
-        "scientific_name": "Prunus cerasus",
-        "description": "Prunus cerasus (sour cherry, tart cherry, or dwarf cherry) is an Old World species of Prunus in the subgenus Cerasus (cherries). It has two main groups of cultivars: the dark-red Morello cherry and the lighter-red Amarelle cherry."
-    },
-    "Pepper,_bell": {
-        "scientific_name": "Bell pepper",
-        "description": "The bell pepper (also known as sweet pepper, pepper, capsicum  or, in some parts of the US midwest, mango) is the fruit of plants in the Grossum Group of the species Capsicum annuum. Cultivars of the plant produce fruits in different colors, including red, yellow, orange, green, white, chocolate, candy cane striped, and purple."
+    "Orange": {
+        "common_name": "Orange",
+        "scientific_name": "Citrus \u00d7 sinensis",
+        "description": "Citrus \u00d7 sinensis (sometimes written Citrus sinensis), a hybrid between pomelo (Citrus maxima) and mandarin (Citrus reticulata), also known as the sweet oranges, is a commonly cultivated species of orange that includes Valencia oranges, blood oranges and navel oranges.\n\n\n== Uses ==\nThe orange fruit is an important agricultural product, used for both the juicy fruit pulp and the aromatic peel (rind).",
+        "medical_uses": "The bitter orange, sour orange, Seville orange, bigarade orange, or marmalade orange is the hybrid citrus tree species Citrus \u00d7 aurantium, and its fruit. It is native to Southeast Asia and has been spread by humans to many parts of the world.",
+        "conservation_status": "The conservation status of a group of organisms (for instance, a species) indicates whether the group still exists and how likely the group is to become extinct in the near future. Many factors are taken into account when assessing conservation status: not simply the number of individuals remaining, but the overall increase or decrease in the population over time, breeding success rates, and known threats.",
+        "nutritional_value": "The term orange drink refers to a sweet, sugary, sometimes carbonated, orange-flavored drink.\nTypically such beverages contain little or no orange juice and are mainly composed of water, sugar or sweeteners, flavor, coloring, and additives.",
+        "habitat": "The orange, also called sweet orange to distinguish it from the bitter orange (Citrus \u00d7 aurantium), is the fruit of a tree in the family Rutaceae. Botanically, this is the hybrid Citrus \u00d7 sinensis, between the pomelo (Citrus maxima) and the mandarin orange (Citrus reticulata).",
+        "cultural_importance": "Ramsar sites are protected under by the Ramsar Convention, an international treaty for the conservation and sustainable use of wetlands, recognizing the fundamental ecological functions of wetlands and their economic, cultural, scientific, and recreational value. The convention establishes that \"wetlands should be selected for the list on account of their international significance in terms of ecology, botany, zoology, limnology or hydrology.\" Over the years, the Conference of the Contracting Parties has adopted more specific criteria interpreting the convention text.",
+        "lifespan": "The orange roughy (Hoplostethus atlanticus), also known as the red roughy, slimehead and deep sea perch, is a relatively large deep-sea fish belonging to the slimehead family (Trachichthyidae). The UK Marine Conservation Society has categorized orange roughy as \"vulnerable to exploitation\"."
     },
     "Corn_(maize)": {
+        "common_name": "Corn_(maize)",
         "scientific_name": "Maize",
-        "description": "Maize  (Zea mays), also known as corn in North American English, is a tall stout grass that produces cereal grain. It was domesticated by indigenous peoples in southern Mexico about 9,000 years ago from wild teosinte."
+        "description": "Maine (  MAYN) is a state in the New England region of the United States, and the northeastern most state in the Lower 48. It borders New Hampshire to the west, the Gulf of Maine to the southeast, and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, and shares a maritime border with Nova Scotia.",
+        "medical_uses": "Genetically modified maize (corn) is a genetically modified crop. Specific maize strains have been genetically engineered to express agriculturally-desirable traits, including resistance to pests and to herbicides.",
+        "conservation_status": "Maine (  MAYN) is a state in the New England region of the United States, and the northeastern most state in the Lower 48. It borders New Hampshire to the west, the Gulf of Maine to the southeast, and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, and shares a maritime border with Nova Scotia.",
+        "nutritional_value": "Maine (  MAYN) is a state in the New England region of the United States, and the northeastern most state in the Lower 48. It borders New Hampshire to the west, the Gulf of Maine to the southeast, and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, and shares a maritime border with Nova Scotia.",
+        "habitat": "The corn snake (Pantherophis guttatus), sometimes called red rat snake is a species of North American rat snake in the family Colubridae. The species subdues its small prey by constriction.",
+        "cultural_importance": "Waxy corn or glutinous corn is a type of  field corn characterized by its sticky texture when cooked as a result of larger amounts of amylopectin. The corn was first described from a specimen from China in 1909.",
+        "lifespan": "The S\u00e9ralini affair was the controversy surrounding the publication, retraction, and republication of a journal article by French molecular biologist Gilles-\u00c9ric S\u00e9ralini. First published by Food and Chemical Toxicology  in September 2012, the article presented a two-year feeding study in rats, and reported an increase in tumors among rats fed genetically modified corn and the herbicide RoundUp."
     },
-    "Soybean": {
-        "scientific_name": "Soybean",
-        "description": "The soybean, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean, which has numerous uses.\nTraditional unfermented food uses of soybeans include soy milk, from which tofu and tofu skin are made."
-    },
-    "Raspberry": {
-        "scientific_name": "Raspberry",
-        "description": "The raspberry is the edible fruit of several plant species in the genus Rubus of the rose family, most of which are in the subgenus Idaeobatus. The name also applies to these plants themselves."
-    },
-    "Apple": {
-        "scientific_name": "Apple",
-        "description": "An apple is a round, edible fruit produced by an apple tree (Malus spp., among them the domestic or orchard apple; Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus."
+    "Cherry_(including_sour)": {
+        "common_name": "Cherry_(including_sour)",
+        "scientific_name": "Prunus cerasus",
+        "description": "Prunus cerasus (sour cherry, tart cherry, or dwarf cherry) is an Old World species of Prunus in the subgenus Cerasus (cherries). It has two main groups of cultivars: the dark-red Morello cherry and the lighter-red Amarelle cherry.",
+        "medical_uses": "Jolly Rancher is an American brand of sweet hard candy, gummies, jelly beans, lollipops, and sour bites, and a line of soda put out by Elizabeth Beverage Company in 2004. Originally created in Colorado in the 1950s, the Jolly Rancher brand has been owned by The Hershey Company since 1996.",
+        "conservation_status": "Prunus avium, commonly called wild cherry, sweet cherry  or gean is a species of cherry, a flowering plant in the rose family, Rosaceae. It is native to Eurasia and naturalized elsewhere.",
+        "nutritional_value": "A berry is a small, pulpy, and often edible fruit. Typically, berries are juicy, rounded, brightly colored, sweet, sour or tart, and do not have a stone or pit, although many pips or seeds may be present.",
+        "habitat": "Prunus cerasus (sour cherry, tart cherry, or dwarf cherry) is an Old World species of Prunus in the subgenus Cerasus (cherries). It has two main groups of cultivars: the dark-red Morello cherry and the lighter-red Amarelle cherry.",
+        "cultural_importance": "Malpighia emarginata is a tropical fruit-bearing shrub or small tree in the family Malpighiaceae.\nCommon names include acerola (from Arabic: \u0627\u0644\u0632\u064f\u0651\u0639\u0631\u064f\u0648\u0631\u064e\u0629, romanized: az-zu\u02bfr\u016bra \"azarole\" for a similar looking old-world fruit), Guarani cherry, Barbados cherry, West Indian cherry, and wild crepe myrtle.",
+        "lifespan": "Cornus florida, the flowering dogwood, is a species of flowering tree in the family Cornaceae native to eastern North America and northern Mexico. An endemic population once spanned from southernmost coastal Maine south to northern Florida and west to the Mississippi River."
     },
     "Potato": {
+        "common_name": "Potato",
         "scientific_name": "Potato",
-        "description": "The potato () is a starchy tuberous vegetable native to the Americas that is consumed as a staple food in many parts of the world. Potatoes are underground tubers of the plant Solanum tuberosum, a perennial in the nightshade family Solanaceae."
+        "description": "The tomato (US: , UK: ), Solanum lycopersicum, is a plant whose fruit is an edible berry that is eaten as a vegetable. The tomato is a member of the nightshade family that includes tobacco, potato, and chili peppers.",
+        "medical_uses": "A potato chip (NAmE and AuE; often just chip) or crisp (BrE and IrE) is a thin slice of potato (or a thin deposit of potato paste) that has been deep fried, baked, or air fried until crunchy. They are commonly served as a snack, side dish, or appetizer.",
+        "conservation_status": "Apios priceana is a rare species of flowering plant in the legume family known by the common names Price's potato-bean, Price's groundnut, and traveler's delight. It is a climbing yellow-green vine in the growing from a stout, potato-like tuber.",
+        "nutritional_value": "The sweet potato or sweetpotato (Ipomoea batatas) is a dicotyledonous plant that belongs to the bindweed or morning glory family, Convolvulaceae. Its large, starchy, sweet-tasting tuberous roots are used as a root vegetable.",
+        "habitat": "The tomato (US: , UK: ), Solanum lycopersicum, is a plant whose fruit is an edible berry that is eaten as a vegetable. The tomato is a member of the nightshade family that includes tobacco, potato, and chili peppers.",
+        "cultural_importance": "The sweet potato or sweetpotato (Ipomoea batatas) is a dicotyledonous plant that belongs to the bindweed or morning glory family, Convolvulaceae. Its large, starchy, sweet-tasting tuberous roots are used as a root vegetable.",
+        "lifespan": "Phthorimaea operculella, also known as the potato tuber moth or tobacco splitworm, is a moth of the family Gelechiidae. It is an oligophagous insect that feeds on the plant family Solanaceae and is especially known for being a major pest of potato crops."
+    },
+    "Raspberry": {
+        "common_name": "Raspberry",
+        "scientific_name": "Raspberry",
+        "description": "The raspberry is the edible fruit of several plant species in the genus Rubus of the rose family, most of which are in the subgenus Idaeobatus. The name also applies to these plants themselves.",
+        "medical_uses": "The Golden Raspberry Awards (also known as the Razzies and Razzie Awards) is a parody award show honoring the worst of cinematic failures. Co-founded by UCLA film graduates and film industry veterans John J. B. Wilson and Mo Murphy, the Razzie Awards' satirical annual ceremony is preceded by its progenitor, the Academy Awards, by four decades.",
+        "conservation_status": "Rubus probus, commonly known as Atherton raspberry or wild raspberry, is a scrambling shrub in the family Rosaceae native to Malesia and Queensland.\nAtherton raspberry is a rampant grower and, like most Rubus species, can form dense thorny thickets.",
+        "nutritional_value": "The raspberry is the edible fruit of several plant species in the genus Rubus of the rose family, most of which are in the subgenus Idaeobatus. The name also applies to these plants themselves.",
+        "habitat": "Rubus leucodermis, also called whitebark raspberry, blackcap raspberry, or blue raspberry, is a species of Rubus native to western North America.\n\n\n== Description ==\nRubus leucodermis is a deciduous shrub growing to 0.5\u20132.5 metres (1+1\u20442\u20138 feet), with prickly shoots.",
+        "cultural_importance": "Rhodolite is a varietal name for rose-pink to red  mineral pyrope, a species in the garnet group. It was first described from Cowee Valley, Macon County, North Carolina.",
+        "lifespan": "Nerds is an American candy launched in 1983 by the Sunmark Corporation under the brand name Willy Wonka Candy Company. Nerds are now made by the Ferrara Candy Company, a subsidiary of Ferrero Group."
+    },
+    "Soybean": {
+        "common_name": "Soybean",
+        "scientific_name": "Soybean",
+        "description": "The soybean, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean, which has numerous uses.\nTraditional unfermented food uses of soybeans include soy milk, from which tofu and tofu skin are made.",
+        "medical_uses": "The soybean, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean, which has numerous uses.\nTraditional unfermented food uses of soybeans include soy milk, from which tofu and tofu skin are made.",
+        "conservation_status": "The soybean, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean, which has numerous uses.\nTraditional unfermented food uses of soybeans include soy milk, from which tofu and tofu skin are made.",
+        "nutritional_value": "The soybean, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean, which has numerous uses.\nTraditional unfermented food uses of soybeans include soy milk, from which tofu and tofu skin are made.",
+        "habitat": "Habitat destruction (also termed habitat loss and habitat reduction) occurs when a natural habitat is no longer able to support its native species. The organisms once living there have either moved elsewhere, or are dead, leading to a decrease in biodiversity and species numbers.",
+        "cultural_importance": "The soybean, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean, which has numerous uses.\nTraditional unfermented food uses of soybeans include soy milk, from which tofu and tofu skin are made.",
+        "lifespan": "Helicoverpa zea, commonly known as the corn earworm, is a species (formerly in the genus Heliothis) in the family Noctuidae. The larva of the moth Helicoverpa zea is a major agricultural pest."
+    },
+    "Blueberry": {
+        "common_name": "Blueberry",
+        "scientific_name": "Blueberry",
+        "description": "Blueberries are a widely distributed and widespread group of perennial flowering plants with blue or purple berries. They are classified in the section Cyanococcus with the genus Vaccinium.",
+        "medical_uses": "My Blueberry Nights is a 2007 romantic drama film directed by Wong Kar-wai, his first feature in English. The screenplay by Wong and Lawrence Block is based on a Chinese-language short film written and directed by Wong.",
+        "conservation_status": "Amelanchier alnifolia, the saskatoon berry, Pacific serviceberry, western serviceberry, western shadbush, or western juneberry, is a shrub native to North America. It is a member of the rose family, and bears an edible berry-like fruit.",
+        "nutritional_value": "Blueberry pie is a pie with a blueberry filling. Blueberry pie is readily made because it does not require pitting or peeling of fruit.",
+        "habitat": "Blueberries are a widely distributed and widespread group of perennial flowering plants with blue or purple berries. They are classified in the section Cyanococcus with the genus Vaccinium.",
+        "cultural_importance": "British Columbia (B.C.) is the third largest Canadian province by population and fourth largest provincial economy. Like other provinces in the Canadian federation, B.C. consists of both private and public institutions.",
+        "lifespan": "Resveratrol (3,5,4\u2032-trihydroxy-trans-stilbene) is a stilbenoid, a type of natural phenol or polyphenol and a phytoalexin produced by several plants in response to injury or when the plant is under attack by pathogens, such as bacteria or fungi. Sources of resveratrol in food include the skin of grapes, blueberries, raspberries, mulberries, and peanuts."
+    },
+    {
+    "Apple": {
+        "common_name": "Apple",
+        "scientific_name": "Malus domestica",
+        "description": "The apple is a deciduous tree known for its sweet fruit.",
+        "medical_uses": "Apples contain antioxidants and fiber that support heart health.",
+        "conservation_status": "Not endangered, widely cultivated.",
+        "nutritional_value": "Rich in Vitamin C, fiber, and antioxidants.",
+        "habitat": "Grows best in temperate climates with well-drained soil.",
+        "cultural_importance": "Symbol of knowledge and health in many cultures.",
+        "lifespan": "Deciduous tree, lives for over 50 years."
     }
+
+
 }
