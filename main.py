@@ -1,4 +1,6 @@
 from fastapi import FastAPI, File, UploadFile
+from fastapi.middleware.cors import CORSMiddleware
+
 from PIL import Image
 import numpy as np
 import tensorflow.lite as tflite
