@@ -6,7 +6,21 @@ import numpy as np
 import tensorflow.lite as tflite
 import io
 import json
+import os
+import gdown
 
+# Google Drive File ID
+file_id = "1ttaB1Llmvm3naGvoTNLc0_kVBtYX-3Ai"
+output_path = "models/plant_models.tflite"
+#https://drive.google.com/file/d/1ttaB1Llmvm3naGvoTNLc0_kVBtYX-3Ai/view?usp=sharing
+# Check if the model already exists
+if not os.path.exists(output_path):
+    print("Downloading model from Google Drive...")
+    gdown.download(f"https://drive.google.com/uc?id={file_id}", output_path, quiet=False)
+    print("Download completed!")
+
+else:
+    print("Model already exists, skipping download.")
 app = FastAPI()
 # Allow frontend to access backend
 app.add_middleware(
@@ -17,7 +31,7 @@ app.add_middleware(
     allow_headers=["*"],  # Allow all headers
 )
 # Load the trained TFLite model
-interpreter = tflite.Interpreter(model_path="models/plant_model.tflite")
+interpreter = tflite.Interpreter(model_path="models/plant_models.tflite")
 interpreter.allocate_tensors()
 input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
